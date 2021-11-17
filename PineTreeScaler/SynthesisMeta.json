@@ -1,0 +1,7 @@
+{
+    "Nickname": "Pine Tree Rescaler",
+    "Visibility": "Visible",
+    "OneLineDescription": "Rescales all pine trees",
+    "LongDescription": "Rescales all the different pine trees by a user defined amount. Dead trees included, snowy trees not.",
+    "PreferredAutoVersioning": "Default"
+  }
